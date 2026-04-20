@@ -36,8 +36,4 @@ Advanced AI Track – Hands-on projects
 Built deep learning model for face transformation + deployed as FastAPI  
 **Tools**: PyTorch, OpenCV
 
-**Object Detection (YOLO)**  
-Implemented and optimized YOLO on custom datasets  
-**Tools**: YOLO, OpenCV
-
 More information in my [LinkedIn](https://www.linkedin.com/in/mohamed-mosaad-084aa1219) 🚀
